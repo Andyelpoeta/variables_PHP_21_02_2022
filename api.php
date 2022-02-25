@@ -17,6 +17,8 @@ $vacio=null;
 $espa="</br>";
 echo "Mi nombre es:".$nomUsu,$espa;
 echo "Mi edad es:".$edaUsu,$espa;
+echo "Mi telefono es:".$miTel,$espa;
+echo "Mi correo es:".$miCorreo,$espa;
 echo "Yo mido :".$altUsu,$espa;
 var_dump($hobUsu);
 echo "Estudio el diplomado en confenalco".$soyEst;
