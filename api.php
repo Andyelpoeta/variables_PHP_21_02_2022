@@ -4,7 +4,7 @@ $nomUsu=(string)"Andres Jair Soto";
 $edaUsu=(int) 34;
 $altUsu=(float) 1.83;
 $miTel=(int) 3025288678;
-$miCorreo=(string)"sotorodriguez@gmail.com";
+$miCorreo=(string)"sotorodriguez@gmail.com"; 
 $hobUsu=(array)[
     (string) "Cantar",
     (string) "Hacer deporte",
